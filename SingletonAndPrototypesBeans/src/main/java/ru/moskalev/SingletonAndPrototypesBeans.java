@@ -9,7 +9,7 @@ import ru.moskalev.scopes.LookupConfig;
 import ru.moskalev.scopes.Singer;
 
 @SpringBootApplication
-public class CJLibTestProjectApplication {
+public class SingletonAndPrototypesBeans {
 
 	public static void main(String[] args) {
 		//SpringApplication.run(JdbcTestProjectApplication.class, args);
